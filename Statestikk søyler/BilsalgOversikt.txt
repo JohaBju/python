@@ -1,0 +1,11 @@
+Volvo: V90: 308
+Volkswagen: Golf: 641
+Toyota: Rav4: 396
+Volkswagen: Passat: 533
+Volkswagen: Tiguan: 280
+BMW: i3: 497
+Mitsubishi: Outlander: 414
+Toyota: Auris: 289
+Renault: Zoe: 279
+Nissan: Leaf: 408
+Volkswagen: Touran: 356
